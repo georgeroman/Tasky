@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tasky</string>
+
+    <string name="title_activity_task_list">My tasks</string>
+    <string name="title_dialog_new_task">New task</string>
+    <string name="title_menu_add">New task</string>
+    <string name="title_snackbar_undo">Task deleted</string>
+
+    <string name="dialog_new_task_positive_button">OK</string>
+    <string name="dialog_new_task_negative_button">CANCEL</string>
+
+    <string name="hint_edit_task">Enter your task</string>
+
+    <string name="undo">UNDO</string>
+
+</resources>
